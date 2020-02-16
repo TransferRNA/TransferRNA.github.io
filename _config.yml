@@ -1,6 +1,6 @@
 # Site settings
-title: TransferRNA‘s Blog
-SEOTitle: TR Blog
+title: HZX‘s Blog
+SEOTitle: Huangzhexi's Blog
 header-img: img/post-bg-desk.jpg
 email: huangzhexipublic@foxmail.com
 description: "Every failure is leading towards success."
@@ -74,7 +74,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 
+ba_track_id: f687b83e29bc8bce4cc3eb569256f55c
 
 # Google Analytics
 ga_track_id: ''            # Format: UA-xxxxxx-xx
