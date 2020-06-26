@@ -2,8 +2,8 @@
 title: Huang Blog
 SEOTitle: Huangzhexi Blog
 header-img: img/post-bg-desk.jpg
-email: huangzhexipublic@foxmail.com
-description: "まったく 退屈しませんね この町は."
+email: huangzhexi@outlook.com
+description: "朝闻道,夕可死矣.."
 keyword: "TR blog, Huangzhexi, TransferRNA, Student"
 url: "http://TransferRNA.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/TransferRNA/TransferRNA.github.io.git" # you co
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "まったく 退屈しませんね この町は"
+sidebar-about-description: "朝闻道,夕可死矣."
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -19,8 +19,8 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     
-zhihu_username:     
-# github_username:    TransferRNA
+zhihu_username:     hhh-90-33-64
+github_username:    TransferRNA
 facebook_username:  Transfer_RNA
 # jianshu_username:   e71990ada2fd
 twitter_username:   Transfer_RNA
